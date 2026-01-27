@@ -1,3 +1,5 @@
+package base;
+
 public class _02base_data_type_extend {
     public static void main(String[] args) {
         //整数拓展：进制  二进制0b    十进制         八进制0        十六进制0x

@@ -1,3 +1,5 @@
+package base;
+
 public class _02base_data_type {
     public static void main(String[] args) {
         //ctrl+alt+L自动调整格式

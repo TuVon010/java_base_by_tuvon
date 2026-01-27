@@ -1,3 +1,5 @@
+package base;
+
 public class _03type_transform_extend {
     public static void main(String[] args) {
         //操作比较大的数的时候注意溢出问题
