@@ -1,5 +1,5 @@
-package com.baidu.www;//不能删除
-import java.util.Date;//import只能在包后面，尽量不要导入重名的类
+package com.junan.www;//不能删除
+
 /*import base._06Operator.Demo1;*/
 /*import base._06Operator.*;这个  .*   会导入这个包下所有的类*/
 public class Demo1 {
