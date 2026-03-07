@@ -1,4 +1,4 @@
-package oop.Demo05;
+package oop.Demo04;
 //人类
 //在java中所有类都默认直接或间接继承object类
 public class Person {
